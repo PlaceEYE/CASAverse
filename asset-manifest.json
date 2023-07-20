@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CASAverse/static/css/main.bbfd7e8d.css",
-    "main.js": "/CASAverse/static/js/main.917ffe18.js",
+    "main.css": "/CASAverse/static/css/main.e6c13ad2.css",
+    "main.js": "/CASAverse/static/js/main.61325c59.js",
     "static/js/787.f1389286.chunk.js": "/CASAverse/static/js/787.f1389286.chunk.js",
     "index.html": "/CASAverse/index.html",
-    "main.bbfd7e8d.css.map": "/CASAverse/static/css/main.bbfd7e8d.css.map",
-    "main.917ffe18.js.map": "/CASAverse/static/js/main.917ffe18.js.map",
+    "main.e6c13ad2.css.map": "/CASAverse/static/css/main.e6c13ad2.css.map",
+    "main.61325c59.js.map": "/CASAverse/static/js/main.61325c59.js.map",
     "787.f1389286.chunk.js.map": "/CASAverse/static/js/787.f1389286.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbfd7e8d.css",
-    "static/js/main.917ffe18.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.61325c59.js"
   ]
 }
