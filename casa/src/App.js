@@ -9,11 +9,11 @@ function App() {
   const [ userId, setUserId ]= useState("");
 
   const element = useRoutes([
-    { path: '/', element: <Title/>},
-    { path: '/spring', element: <Spring/>},
-    { path: '/summer', element: <Summer/>},
-    { path: '/fall', element: <Fall/>},
-    { path: '/winter', element: <Winter/>},
+    { path: '/CASAverse', element: <Title/>},
+    { path: '/CASAverse/spring', element: <Spring/>},
+    { path: '/CASAverse/summer', element: <Summer/>},
+    { path: '/CASAverse/fall', element: <Fall/>},
+    { path: '/CASAverse/winter', element: <Winter/>},
   ]);
 
   return element;

@@ -47,7 +47,7 @@ const Box = (props) => {
   };
 
   const handleClick = () => {
-    navigate("/summer");
+    navigate("/CASAverse/summer");
   };
 
   return (

@@ -32,7 +32,7 @@ const Sphere = (props) => {
   };
 
   const handleClick = () => {
-    navigate("/spring");
+    navigate("/CASAverse/spring");
   };
 
   return (
