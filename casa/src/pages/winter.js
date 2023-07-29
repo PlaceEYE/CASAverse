@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 extend({ OrbitControls });
 
 const BackGround = (props) => {
-  const texture = useLoader(THREE.TextureLoader, process.env.PUBLIC_URL + "/assets/winter.jpg");
+  const texture = useLoader(THREE.TextureLoader, process.env.PUBLIC_URL + "/assets/winter.png");
   const { scene, gl } = useThree();
 
   useEffect(() => {
